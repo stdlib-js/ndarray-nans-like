@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-15)
+## Unreleased (2026-06-17)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`c698eb1`](https://github.com/stdlib-js/stdlib/commit/c698eb1e0c90cd6ecdd9eb529c5805c66bcac2a8) - **chore:** update keywords [(#12757)](https://github.com/stdlib-js/stdlib/pull/12757) _(by Philipp Burckhardt)_
 -   [`0293981`](https://github.com/stdlib-js/stdlib/commit/0293981bc2e4dcdf3ec3f570c9326c049fe40b2c) - **docs:** replace \"array\" with \"ndarray\" in various type declarations [(#12828)](https://github.com/stdlib-js/stdlib/pull/12828) _(by Philipp Burckhardt)_
 -   [`435de12`](https://github.com/stdlib-js/stdlib/commit/435de1206159d14c5501d39c85395b08e36a540e) - **test:** fix grammar in description _(by Athan Reines)_
 -   [`612bd5d`](https://github.com/stdlib-js/stdlib/commit/612bd5d66a0c0c394b501f9aa660355079816960) - **test:** use ndarray instance rather than ndarray-like objects _(by Athan Reines)_

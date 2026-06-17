@@ -109,7 +109,7 @@
     "fill",
     "filled",
     "nans",
-    "numpy.empty_like"
+    "numpy.full_like"
   ],
   "funding": {
     "type": "opencollective",
