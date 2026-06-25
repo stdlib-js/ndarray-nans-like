@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-17)
+## Unreleased (2026-06-25)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`1977f92`](https://github.com/stdlib-js/stdlib/commit/1977f92944b56c40c27b23d74570f2958adc7a39) - **docs:** update documented default value for `submode` option [(#13106)](https://github.com/stdlib-js/stdlib/pull/13106) _(by Philipp Burckhardt)_
 -   [`c698eb1`](https://github.com/stdlib-js/stdlib/commit/c698eb1e0c90cd6ecdd9eb529c5805c66bcac2a8) - **chore:** update keywords [(#12757)](https://github.com/stdlib-js/stdlib/pull/12757) _(by Philipp Burckhardt)_
 -   [`0293981`](https://github.com/stdlib-js/stdlib/commit/0293981bc2e4dcdf3ec3f570c9326c049fe40b2c) - **docs:** replace \"array\" with \"ndarray\" in various type declarations [(#12828)](https://github.com/stdlib-js/stdlib/pull/12828) _(by Philipp Burckhardt)_
 -   [`435de12`](https://github.com/stdlib-js/stdlib/commit/435de1206159d14c5501d39c85395b08e36a540e) - **test:** fix grammar in description _(by Athan Reines)_
