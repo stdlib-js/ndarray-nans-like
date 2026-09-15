@@ -158,6 +158,7 @@ var nansLike = require( '@stdlib/ndarray-nans-like' );
 var dt = [
     'float64',
     'float32',
+    'float16',
     'complex128',
     'complex64',
     'generic'

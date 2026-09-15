@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-20)
+## Unreleased (2026-09-15)
 
 <section class="features">
 
 ### Features
 
+-   [`4ba080a`](https://github.com/stdlib-js/stdlib/commit/4ba080a0f00815a1e00c81a0a063724b4cedc268) - add float16 dtype support to `ndarray/nans-like` [(#15252)](https://github.com/stdlib-js/stdlib/pull/15252)
 -   [`b9ecb29`](https://github.com/stdlib-js/stdlib/commit/b9ecb2970eedca271688dc7fc12ee2247a43cbf3) - add `ndarray/nans-like`
 
 </section>
@@ -22,6 +23,7 @@
 
 <details>
 
+-   [`4ba080a`](https://github.com/stdlib-js/stdlib/commit/4ba080a0f00815a1e00c81a0a063724b4cedc268) - **feat:** add float16 dtype support to `ndarray/nans-like` [(#15252)](https://github.com/stdlib-js/stdlib/pull/15252) _(by Samarth Kolarkar)_
 -   [`1977f92`](https://github.com/stdlib-js/stdlib/commit/1977f92944b56c40c27b23d74570f2958adc7a39) - **docs:** update documented default value for `submode` option [(#13106)](https://github.com/stdlib-js/stdlib/pull/13106) _(by Philipp Burckhardt)_
 -   [`c698eb1`](https://github.com/stdlib-js/stdlib/commit/c698eb1e0c90cd6ecdd9eb529c5805c66bcac2a8) - **chore:** update keywords [(#12757)](https://github.com/stdlib-js/stdlib/pull/12757) _(by Philipp Burckhardt)_
 -   [`0293981`](https://github.com/stdlib-js/stdlib/commit/0293981bc2e4dcdf3ec3f570c9326c049fe40b2c) - **docs:** replace \"array\" with \"ndarray\" in various type declarations [(#12828)](https://github.com/stdlib-js/stdlib/pull/12828) _(by Philipp Burckhardt)_
@@ -39,10 +41,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Philipp Burckhardt
+-   Samarth Kolarkar
 
 </section>
 
