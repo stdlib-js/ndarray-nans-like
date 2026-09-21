@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-15)
+## Unreleased (2026-09-21)
 
 <section class="features">
 
@@ -23,6 +23,7 @@
 
 <details>
 
+-   [`71758bb`](https://github.com/stdlib-js/stdlib/commit/71758bb364a856a954baa9b7661d5d2da6172ea2) - **docs:** fix description [(#15265)](https://github.com/stdlib-js/stdlib/pull/15265) _(by Philipp Burckhardt, Athan Reines)_
 -   [`4ba080a`](https://github.com/stdlib-js/stdlib/commit/4ba080a0f00815a1e00c81a0a063724b4cedc268) - **feat:** add float16 dtype support to `ndarray/nans-like` [(#15252)](https://github.com/stdlib-js/stdlib/pull/15252) _(by Samarth Kolarkar)_
 -   [`1977f92`](https://github.com/stdlib-js/stdlib/commit/1977f92944b56c40c27b23d74570f2958adc7a39) - **docs:** update documented default value for `submode` option [(#13106)](https://github.com/stdlib-js/stdlib/pull/13106) _(by Philipp Burckhardt)_
 -   [`c698eb1`](https://github.com/stdlib-js/stdlib/commit/c698eb1e0c90cd6ecdd9eb529c5805c66bcac2a8) - **chore:** update keywords [(#12757)](https://github.com/stdlib-js/stdlib/pull/12757) _(by Philipp Burckhardt)_
